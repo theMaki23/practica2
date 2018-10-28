@@ -1,20 +1,20 @@
-#EXTRACCIÓN DE REQUISITOS
+# EXTRACCIÓN DE REQUISITOS
 
 
 
-** PARTES INTERESADAS: **
+**PARTES INTERESADAS:**
 
 * Profesor de la asignatura Ingeniería del Software.
 
 
 
-** DATOS QUE DEBE ALMACENAR LA APLICACIÓN: **
+**DATOS QUE DEBE ALMACENAR LA APLICACIÓN:**
 
 * Debe tener la información de los alumnos de forma organizada según el DNI, nombre, apellidos, teléfono, email-uco, dirección postal, curso más alto en el que está matriculado, fecha de nacimiento, grupo, líder de grupo. 
 
 
 
-** FUNCIONALES: **
+**FUNCIONALES:**
 
 * Introducir alumnos manualmente o cargar una base de datos entera de un fichero.(1)
 
@@ -38,7 +38,7 @@
 
 
 
-** NO FUNCIONALES: **
+**NO FUNCIONALES:**
 
 * Máximo 150 alumnos.
 
