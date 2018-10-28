@@ -1,0 +1,31 @@
+# Mostrar líderes
+
+**ID**: 9
+
+**Breve descripción**: El lider de cada grupo aparecera remarcado de forma especial
+
+**Actores principales**: Profesor.
+
+**Actores secundarios**: Alumno.
+
+**Precondiciones**:
+
+1. Debe de existir almenos 1 alumno registrado en el sistema.
+2. Debe de estar registrado almenos 1 grupo en el sistema.
+3. Cada grupo debe tener como minimo 1 alumno registrado.
+4. Cada lider debe de pertener a un solo grupo.
+
+**Flujo principal**:
+
+1. El caso de uso comienza cuando el sistema requiere mostrar los lideres de cada grupo.
+2. El sistema recoge a los lideres de cada grupo.
+
+**Postcondiciones**:
+
+- El sistema muestra un listado de los grupos del sistema junto al lider correspondiente.
+
+**Flujos alternativos**:
+
+2.a. Si no existen grupos en el sistema el sistema generará un mensaje informando al usuario.
+
+2.b. Si un grupo no tiene lider o no esta registrado en el sistema en ese momento se mostrara un mensaje que indique que no hay lider registrado en el sistema para dicho grupo.
