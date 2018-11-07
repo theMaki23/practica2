@@ -34,7 +34,7 @@
 
 * Mostrar líder de cada grupo de forma especial.(5)
 
-* Introducir alumnos manualmente o cargar una base de datos entera de un fichero.(1)
+* Insertar alumnos manualmente o cargar una base de datos entera de una copia de seguridad.(1)
 
 
 
