@@ -2,8 +2,6 @@
 
 * Modificar alumno: hace falta el tratamiento de los líderes.
 
-* Copia manual: ¿porqué debe existir un fichero en el sistema? No podemos crear uno nuevo?
-
 * Mostrar alumnos por grupo: este caso hace uso de buscar, pero en buscar no tenéis la opción de buscar por grupo.
 
 * Faltan el mostrado en ficheros HTML.
