@@ -1,7 +1,5 @@
 * Diagrama de casos de uso: mal. Hay relaciones también entre casos.
 
-* Insertar alumno:  Para insertar un alumno las comprobaciones tienen que ser: que no exista en el sistema, que no haya más de 150.
-
 * Modificar alumno: hace falta el tratamiento de los líderes.
 
 * Copia manual: ¿porqué debe existir un fichero en el sistema? No podemos crear uno nuevo?
