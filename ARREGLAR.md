@@ -3,5 +3,3 @@
 * Modificar alumno: hace falta el tratamiento de los líderes.
 
 * Faltan el mostrado en ficheros HTML.
-
-* Crear nueva funcion a parte de cargar/guardar 
