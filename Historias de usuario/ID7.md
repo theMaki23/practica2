@@ -1,7 +1,7 @@
 ### (ANVERSO)
 **ID:** 7 **Generar fichero de datos**
 
-`Los datos se guardaran automaticamente en un fichero generado de formato ".bin".`
+`Los datos se guardaran automaticamente en un fichero generado de formato ".md".`
 
 **Prioridad:** 1
 
