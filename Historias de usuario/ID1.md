@@ -1,7 +1,7 @@
 ### (ANVERSO)
-**ID:** 1 **Insertar alumnos o copia de seguridad**
+**ID:** 1 **Insertar alumno**
 
-`Como usuario quiero poder insertar un alumno o una copia de seguridad a la lista de alumnos.`
+`Como usuario quiero poder insertar un alumno a la lista de alumnos.`
 
 **Prioridad:** 1
 
