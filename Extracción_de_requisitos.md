@@ -36,6 +36,8 @@
 
 * Insertar alumnos manualmente o cargar una base de datos entera de una copia de seguridad.(1)
 
+* Insertar profesor.(1)
+
 
 
 **NO FUNCIONALES:**
@@ -56,4 +58,6 @@
 
 * Cada grupo puede tener o no líder y si existe este debe de ser único.
 
-* Todos los datos son obligatorios menos el grupo y su líder.
+* Al insertar alumnos todos los datos son obligatorios menos el grupo y su líder.
+
+* Al insertar profesor todos los datos son obligatorios (nombre, DNI, e-mail, rol).
