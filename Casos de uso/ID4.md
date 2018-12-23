@@ -25,8 +25,7 @@
 
 **Flujos alternativos**:
 
-1.a. Si los datos no son introducidos incorrectamente se mostrara un "ERROR" por pantalla y se volveran a pedir.
 
-2.b. Si el DNI o apellido no corresponde a ningun alumno el sistema mostrar por pantalla, "Alumno no existe".
+1.b. Si el DNI o apellido no corresponde a ningun alumno el sistema mostrar por pantalla, "Alumno no existe".
 
-3.b. Si el apellido se repite 1 o mas veces, se pedir· al usuario que introduzca el DNI.
+2.b. Si el apellido se repite 1 o mas veces, se pedir√° al usuario que introduzca el DNI.
